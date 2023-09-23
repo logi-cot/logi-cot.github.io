@@ -1,4 +1,4 @@
-Website for "Chat with the Environment: Interactive Multimodal Perception using Large Language Models"
+Website for LogiCoT paper "Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic"
 
 
-see https://matcha-model.github.io
+see https://logi-cot.github.io
